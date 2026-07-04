@@ -260,25 +260,25 @@ The dashboard includes several custom DAX measures such as:
 
 ## Customer Analytics
 
-![Customer Analytics](Project Images/Customer_Analytics.png)
+![Customer Analytics](Project%20Images/Customer_Analytics.png)
 
 ---------------------------------------------------------------------
 
 ## Revenue Insights
 
-![Revenue Insights](Project Images/Revenue_Insights.png)
+![Revenue Insights](Project%20Images/Revenue_Insights.png)
 
 ---------------------------------------------------------------------
 
 ## Customer Behaviour
 
-![Customer Behaviour](Project Images/Customer_Behaviour.png)
+![Customer Behaviour](Project%20Images/Customer_Behaviour.png)
 
 ---------------------------------------------------------------------
 
 ## Customer Details
 
-![Customer Details](Project Images/Customer_Details.png)
+![Customer Details](Project%20Images/Customer_Details.png)
 
 ---------------------------------------------------------------------
 
