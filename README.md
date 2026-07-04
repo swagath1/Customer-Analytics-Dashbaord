@@ -254,7 +254,7 @@ The dashboard includes several custom DAX measures such as:
 
 ## Executive Dashboard
 
-![Executive Dashboard](Project Images/Executive_Dashboard.png)
+![Executive Dashboard](Project%20Images/Executive_Dashboard.png)
 
 ---------------------------------------------------------------------
 
