@@ -254,33 +254,33 @@ The dashboard includes several custom DAX measures such as:
 
 ## Executive Dashboard
 
-![Executive Dashboard](Project%20Images/Executive%20Dashboard.png)
+![Executive Dashboard](Project Images/Executive_Dashboard.png)
 
----
+---------------------------------------------------------------------
 
 ## Customer Analytics
 
-![Customer Analytics](Project%20Images/Customer%20Analytics.png)
+![Customer Analytics](Project Images/Customer_Analytics.png)
 
----
+---------------------------------------------------------------------
 
 ## Revenue Insights
 
-![Revenue Insights](Project%20Images/Revenue%20Insights.png)
+![Revenue Insights](Project Images/Revenue_Insights.png)
 
----
+---------------------------------------------------------------------
 
 ## Customer Behaviour
 
-![Customer Behaviour](Project%20Images/Customer%20Behaviour.png)
+![Customer Behaviour](Project Images/Customer_Behaviour.png)
 
----
+---------------------------------------------------------------------
 
 ## Customer Details
 
-![Customer Details](Project%20Images/Customer%20Details.png)
+![Customer Details](Project Images/Customer_Details.png)
 
----
+---------------------------------------------------------------------
 
 # 📁 Repository Structure
 
